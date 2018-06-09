@@ -71,3 +71,4 @@ test("null coalescing", function() {
     var result = null || "a value";
     equal("a value", result, 'what is the value of result?');
 });
+//why TODO
